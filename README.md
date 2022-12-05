@@ -2,7 +2,7 @@
 
 ## Honour Code
  I shall be honest in my efforts and will make my parents proud. 
- signed: Ayush Sharma, Rachit Jain, Y S G Akshay
+ signed: Ayush Sharma, Rachit Jain.
 
 ## Motivation
 The motivation for using MultiKOC (Multi-one-class classifier based on K-means) is that multiple subclusters can occur in the class cluster of one-class classification problems which classic one-class classifiers fail to handle as they do not see the negative samples or sub-data, especially in computational biology such as multiple tumors, protein folds, biometrics, MRI, etc. The MultiKOC handles this issue by clustering the positive samples using K means and then training a one-class classifier for each cluster.
